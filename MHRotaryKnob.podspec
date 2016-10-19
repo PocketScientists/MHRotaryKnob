@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/hollance/MHRotaryKnob'
   s.authors		 = { 'Matthijs Hollemans' => 'mail@hollance.com' }
   s.source       = { :git => 'https://github.com/PocketScientists/MHRotaryKnob.git' }
-  s.source_files = 'MHRotaryKnob.h', 'MHRotaryKnob.m'
+  s.source_files = 'MHRotaryKnob/MHRotaryKnob.h', 'MHRotaryKnob/MHRotaryKnob.m'
   s.requires_arc = true
 end
